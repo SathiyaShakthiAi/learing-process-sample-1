@@ -1,5 +1,5 @@
 # Simple form submition site project
-### Front end: React js
+### Front end: React js, CSS
 ### Back end: Python
 
 # Installation & Setup
